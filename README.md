@@ -34,6 +34,11 @@ Overall, this project illustrates the complete workflow of a machine learning ap
 
 This project serves as a strong foundation for more advanced applications, such as adding multiple input features, improving the user interface, or deploying the app online using cloud platforms.
 
-outout of the task :
+output of the task :
+<img width="78" height="21" alt="Image" src="https://github.com/user-attachments/assets/f0c55e28-92fa-4830-9c1d-8efde17d4e55" />
 
+<img width="625" height="46" alt="Image" src="https://github.com/user-attachments/assets/bcf5bb01-456c-4946-9589-81c8b9486242" />
+<img width="747" height="141" alt="Image" src="https://github.com/user-attachments/assets/9433cb9c-687c-45f5-9497-a63f20aa4f35" />
+<img width="518" height="154" alt="Image" src="https://github.com/user-attachments/assets/81b55a25-d2a8-470c-825a-cfe896b63491" />
+<img width="448" height="70" alt="Image" src="https://github.com/user-attachments/assets/f8b71a3e-842b-456a-ac12-47174d34802f" />
 
